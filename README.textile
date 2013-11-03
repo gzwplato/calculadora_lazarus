@@ -1,0 +1,25 @@
+h1. Calculadora Lazarus
+
+Pequeno exemplo escrito em Pascal. Sua finalidade é demonstrar a utilização das seguintes técnicas e ferramentas no desenvolvimento de sistemas:
+  * Git
+  * Testes unitários
+  * GitHub
+
+h2. Técnicas e ferramentas
+
+h3. Sistema de controle de versão
+
+  * Git
+  ** http://git-scm.com/book/pt-br/
+
+h3. Testes unitários
+  
+  * FPCunit
+  ** http://wiki.freepascal.org/fpcunit
+  ** http://sergworks.wordpress.com/tag/dunit/
+ 
+h3. Repositório on-line
+
+  * GitHub
+  ** https://github.com
+
