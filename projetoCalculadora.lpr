@@ -1,0 +1,20 @@
+program projetoCalculadora;
+
+{$mode objfpc}{$H+}
+
+uses
+  {$IFDEF UNIX}{$IFDEF UseCThreads}
+  cthreads,
+  {$ENDIF}{$ENDIF}
+  Interfaces, // this includes the LCL widgetset
+  Forms, CalculadoraForm, calculadora, testcalculadora;
+
+{$R *.res}
+
+begin
+  RequireDerivedFormResource := True;
+  Application.Initialize;
+  Application.CreateForm(TFrmCalculadora, FrmCalculadora);
+  Application.Run;
+end.
+
