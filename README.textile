@@ -26,12 +26,12 @@ h3. Repositório on-line
 h3. Algumas imagens
 
   * Como criar projeto de testes no Lazarus:
-"!img/criar_projeto_testes.png!"
+!img/criar_projeto_testes.png!
 
 
   * Tela de testes unitários
-"!img/testes.png!"
+!img/testes.png!
 
   * Tela da calculadora
-"!img/ide.png!"
+!img/ide.png!
 
