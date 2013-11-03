@@ -23,3 +23,14 @@ h3. Repositório on-line
   * GitHub
   ** https://github.com
 
+h3. Algumas imagens
+
+  * Como criar projeto de testes no Lazarus:
+"!https://github.com/ronaldotijucas/calculadora_lazarus/blob/master/img/criar_projeto_testes.png"
+
+  * Tela de testes unitários
+"!https://github.com/ronaldotijucas/calculadora_lazarus/blob/master/img/testes.png"
+
+  * Tela da calculadora
+"!https://github.com/ronaldotijucas/calculadora_lazarus/blob/master/img/ide.png"
+
